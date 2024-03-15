@@ -1,0 +1,65 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: solid;
+    margin-left: 39px;
+    border-left-style: solid;
+    border-right-style: solid;
+    text-align: center;
+}
+
+.к {
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    border-color: darkgreen;
+    border-style: solid;
+    margin-top: 40px;
+    border-left-style: none;
+    border-right-style: none;
+    text-align: center;
+}
+
+.b {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-color: darkgreen;
+    border-style: solid;
+    margin-top: 39px;
+    border-top-style: none;
+    border-bottom-style: none;
+    text-align: center;
+}
+
+.s {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: solid;
+    margin-top: 39px;
+    text-align: center;
+}
+
+.q {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: dashed;
+    margin-top: 39px;
+    text-align: center;
+}
+
+.u {
+    width: 300px;
+    height: 300px;
+    border-width: 10px;
+    border-color: chartreuse;
+    border-style: solid;
+    margin-top: 39px;
+    text-align: center;
+}
